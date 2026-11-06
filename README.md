@@ -45,4 +45,4 @@ Stack livre. Use apenas dados fictícios.
 
 ### Prazo
 
-3 dias corridos a partir do recebimento. O esforço esperado é de 6 a 8 horas, não é preciso usar o prazo inteiro. Dúvidas sobre o enunciado podem ser enviadas por e-mail a qualquer momento, e perguntar também é um bom sinal.
+3 dias corridos a partir do recebimento. O esforço esperado é de 6 a 8 horas, não é preciso usar o prazo inteiro. Dúvidas sobre o enunciado podem ser enviadas por e-mail (thiago.gaspar@btax.com.br) a qualquer momento, e perguntar também é um bom sinal.
